@@ -3,6 +3,6 @@
     { "id": 1, "Title": "$0 Cuota Anual:", "Text": "Realiza todas tus compras, sin cuota anual." },
     { "id": 2, "Title": "Viajes:", "Text": "Acumula recompensas por tus compras y redime por viajes a alrededor del mundo." },
 	{ "id": 3, "Title": "Puntos PREMIA®:", "Text": "Gana puntos por tus compras." },
-	{ "id": 3, "Title": "Establecer Crédito:", "Text": "Da el primer paso para construir tu historial crediticio." }
+	{ "id": 4, "Title": "Establecer Crédito:", "Text": "Da el primer paso para construir tu historial crediticio." }
   ]
 }
