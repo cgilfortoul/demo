@@ -1,9 +1,1 @@
-{
-  "items":
- [
-    { "id": 1, "title": "$0 Cuota Anual:", "text": "Realiza todas tus compras, sin cuota anual." },
-    { "id": 2, "title": "Viajes:", "text": "Acumula recompensas por tus compras y redime por viajes a alrededor del mundo." },
-	{ "id": 3, "title": "Puntos PREMIA®:", "text": "Gana puntos por tus compras." },
-	{ "id": 4, "title": "Establecer Crédito:", "text": "Da el primer paso para construir tu historial crediticio." }
-  ]
- }
+{"items":[{ "id": 1, "title": "$0 Cuota Anual:", "text": "Realiza todas tus compras, sin cuota anual." },{ "id": 2, "title": "Viajes:", "text": "Acumula recompensas por tus compras y redime por viajes a alrededor del mundo." },{ "id": 3, "title": "Puntos PREMIA®:", "text": "Gana puntos por tus compras." },{ "id": 4, "title": "Establecer Crédito:", "text": "Da el primer paso para construir tu historial crediticio." }]}
